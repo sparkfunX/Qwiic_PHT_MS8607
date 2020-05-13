@@ -26,4 +26,4 @@ applications.
 
 ## Library
 
-- **[Arduino Library](https://github.com/PaulZC/Qwiic_PHT_MS8607_Library)** - Library for reading pressure in mBar, altitude, etc.
+- **[Arduino Library](https://github.com/sparkfun/SparkFun_PHT_MS8607_Arduino_Library)** - Library for reading pressure in mBar, altitude, etc.
