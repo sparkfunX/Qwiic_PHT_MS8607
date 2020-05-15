@@ -3,6 +3,7 @@
 The TE MS8607 combined pressure, humidity and temperature sensor in Qwiic format.
 
 ![PCB](img/16298-Qwiic_Pressure_Humidity_Temp__PHT__Sensor_-_MS8607-00.jpg)
+[Qwiic PHT Sensor MS8607 (SPX-16298)](https://www.sparkfun.com/products/16298)
 
 The MS8607 sensor is a self-contained pressure, humidity and temperature sensor that is fully calibrated during manufacture.
 The sensor can operate from 1.5V to 3.6V. The MS8607 is ideal for weather station applications embedded into compact devices and
